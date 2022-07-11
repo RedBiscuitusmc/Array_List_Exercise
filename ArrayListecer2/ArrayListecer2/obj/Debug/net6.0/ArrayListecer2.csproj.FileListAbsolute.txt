@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\bin\Debug\net6.0\ArrayListecer2.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\bin\Debug\net6.0\ArrayListecer2.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\bin\Debug\net6.0\ArrayListecer2.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\bin\Debug\net6.0\ArrayListecer2.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\bin\Debug\net6.0\ArrayListecer2.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\ArrayListecer2.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\ArrayListecer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\ArrayListecer2.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\ArrayListecer2.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\ArrayListecer2.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\ArrayListecer2.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\refint\ArrayListecer2.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\ArrayListecer2.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\ArrayListecer2.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Array_Lists_exer2\ArrayListecer2\ArrayListecer2\obj\Debug\net6.0\ref\ArrayListecer2.dll
